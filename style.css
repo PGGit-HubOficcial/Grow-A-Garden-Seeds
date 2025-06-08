@@ -1,0 +1,157 @@
+h1 {
+    text-align: center;
+    color: lightgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+header {
+    text-align: center;
+    background-color:rgb(67, 154, 207);
+    border: 5px solid blue;
+}
+nav a {
+    background-color: orange;
+    color: rgb(24, 24, 24);
+    margin: 10px;
+    padding: 12px;
+    border-radius: 30px;
+    font-size: 30px;
+    text-decoration: none;
+}
+nav {
+    margin: 10px;
+    padding: 25px;
+    text-align: left;
+}
+.pets {
+    background-color: rgb(226, 80, 80);
+}
+.gi {
+    background-color: blue;
+}
+.phom {
+    background-color:lightsalmon;
+    
+}
+.ev {
+    background-color: red;
+}
+.text {
+    font-size: 20px;
+    color: rgb(58, 173, 12);
+    background-color: lightgreen;
+    border: 5px solid green;
+}
+header img {
+    border: 5px solid darkgreen;
+}
+.carrot {
+    background-color: orangered;
+    border: 5px solid orange;
+    color: darkorange;
+}
+.imgcarrot {
+    text-align: center;
+}
+.strawberry {
+    background-color: red;
+    border: 5px solid lightcoral;
+    color: darkred;
+}
+.blueberry {
+    background-color: blue;
+    border: 5px solid blueviolet;
+    color: darkblue;
+}
+.ortul {
+    background-color: orange;
+    border: 5px solid darkorange;
+    color: orangered;
+}
+.tomato {
+    background-color: red;
+    border: 5px solid darkred;
+    color: darkolivegreen;
+}
+.corn {
+    background-color: yellow;
+    border: 5px solid darkorange;
+    color: darkgoldenrod;
+}
+.daffodil {
+    background-color: lightsalmon;
+    border: 5px solid yellow;
+    color: darkorange;
+}
+.cor {
+    background-color: rgb(247, 212, 16);
+}
+.dafo {
+    background-color: yellow;
+}
+.waterm {
+    background-color: green;
+    border: 5px solid darkgreen;
+    color: black;
+}
+.melini {
+    background-color: darkgreen;
+}
+.imgstraw {
+    text-align: center;
+}
+.imgblueb {
+    text-align: center;
+}
+.ortulimg {
+    text-align: center;
+}
+.tomatoimg {
+    text-align: center;
+}
+.cornimg {
+    text-align: center;
+}
+.dafimg {
+    text-align: center;
+}
+.watermimg {
+    text-align: center;
+}
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.pumpkimg {
+    text-align: center;
+}
+.pumpk {
+    background-color: orange;
+    border: 5px solid orangered;
+    color: yellow;
+}
+.pump {
+    background-color: orangered;
+}
+.appimg {
+    text-align: center;
+}
+.appl {
+    background-color: red;
+    border: 5px solid greenyellow;
+    color: rgb(253, 208, 6);
+}
+.apple {
+    background-color: rgb(255, 0, 34);
+}
+.bambimg {
+    text-align: center;
+}
+.bamb {
+    background-color: greenyellow;
+    border: 5px solid green;
+    color: darkgreen;
+}
+.bambo {
+    background-color: greenyellow;
+}
