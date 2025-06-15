@@ -155,3 +155,51 @@ main {
 .bambo {
     background-color: greenyellow;
 }
+.cocimg {
+    text-align: center;
+}
+.coc {
+    background-color: burlywood;
+    border: 5px solid brown;
+    color: black;
+}
+.coco {
+    background-color: burlywood;
+}
+.cacimg {
+    text-align: center;
+}
+.cac {
+    background-color: green;
+    border: 5px solid lightgreen;
+    color: white;
+}
+.cact {
+    background-color: green;
+}
+.drfrimg {
+    text-align: center;
+}
+.df {
+    background-color: palevioletred;
+    border: 5px solid green;
+    color: black;
+}
+.dragfr {
+    background-color: pink;
+}
+.mngimg {
+    text-align: center;
+}
+.mango {
+    background-color: orange;
+    border: 5px solid orangered;
+    color: yellow;
+}
+.mang {
+    background-color: orangered;
+}
+footer {
+    text-align: center;
+    background-color: greenyellow;
+}
